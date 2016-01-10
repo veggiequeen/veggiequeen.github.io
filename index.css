@@ -1,0 +1,12 @@
+
+
+
+footer {
+    width: 800px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    clear: both;
+    padding:5px;
+    display: block;
+}
